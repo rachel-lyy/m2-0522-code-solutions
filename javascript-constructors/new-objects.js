@@ -17,4 +17,4 @@ console.log('typeof myString: ', typeof myString);
 
 var myBoolean = new Boolean();
 console.log('value of myBoolean: ', myBoolean);
-console.log('typeof myBoolean: ', myBoolean);
+console.log('typeof myBoolean: ', typeof myBoolean);
